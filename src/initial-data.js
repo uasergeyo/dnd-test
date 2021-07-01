@@ -1,0 +1,36 @@
+
+const initialData = {
+  tasks: [
+    { id: 'task-1', content: '1--Take out the garbage' },
+    { id: 'task-2', content: '2--Watch my favorite show' },
+    { id: 'task-3', content: '3--Charge my phone' },
+    { id: 'task-4', content: '4---Cook dinner' },
+    { id: 'task-11', content: '5---Take out the garbage' },
+    { id: 'task-21', content: '6--Watch my favorite show' },
+    { id: 'task-31', content: '7--Charge my phone' },
+    { id: 'task-41', content: '8---Cook dinner' },
+    { id: 'task-12', content: '9---Take out the garbage' },
+    { id: 'task-22', content: '10---Watch my favorite show' },
+    { id: 'task-32', content: '11---Charge my phone' },
+    { id: 'task-42', content: '12---Cook dinner' },
+    { id: 'task-13', content: '13---Take out the garbage' },
+    { id: 'task-23', content: '14---Watch my favorite show' },
+    { id: 'task-33', content: '15---Charge my phone' },
+    { id: 'task-43', content: '16---Cook dinner' },
+    { id: 'task-414', content: '17---Take out the garbage' },
+    { id: 'task-24', content: '18----Watch my favorite show' },
+    { id: 'task-34', content: '19----Charge my phone' },
+    { id: 'task-44', content: '20----Cook dinner' },
+    { id: 'task-15', content: '21----Take out the garbage' },
+    { id: 'task-25', content: '22----Watch my favorite show' },
+    { id: 'task-35', content: '23-----Charge my phone' },
+    { id: 'task-45', content: '24-----Cook dinner' },
+    { id: 'task-16', content: '25-----Take out the garbage' },
+    { id: 'task-26', content: 'Watch my favorite show' },
+    { id: 'task-36', content: 'Charge my phone' },
+    { id: 'task-46', content: 'Cook dinner' },
+  ],
+  taskIds: ['task-1', 'task-2', 'task-3', 'task-4'],
+};
+  
+  export default initialData;
